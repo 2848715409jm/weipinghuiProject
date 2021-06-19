@@ -1,0 +1,120 @@
+.main{
+    width: 1240px;
+    margin: 0 auto;
+}
+#header{
+    width: 100%;
+    height: 80px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+.header img{
+    float: left;
+}
+.header ul li{
+    float: right;
+    padding-right: 22px;
+    line-height: 80px;
+    display: flex;
+    align-items: center;
+    color: #939393;
+}
+.header ul li img{
+    padding-right: 3px;
+}
+#content{
+    width: 100%;
+    height:650px;
+    background-image:url(../static/img/enroll/enroll_01.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.enroll{
+    width: 420px;
+    height: 520px;
+    background-color: #fff;
+    float: right;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.enroll1{
+    height: 60px;  
+    border-bottom:1px solid #e0e0e0;
+}
+.enroll1 h3{
+    font-size: 24px;
+    color: #666;
+    line-height: 60px;
+    float: left;
+    margin-left: 38px;
+}
+.enroll1 p{
+    float: right;
+    margin-right: 38px;
+    line-height: 60px;
+    font-size: 16px;
+}
+.enroll2 input:nth-of-type(1){
+    margin-top: 36px;
+}
+.enroll2 input{
+    padding-left: 20px;
+    height: 46px;
+    width: 324px;
+    margin-bottom: 36px;
+    margin-left: 38px;
+}
+.enroll2 #chk{
+    height: 19px;
+    width: 16px;
+}
+.enroll2 span{
+    position: relative;
+    top: -5px;
+    left: 5px;
+}
+.enroll2 input:nth-of-type(4){
+    width: 350px;
+    font-size: 16px;
+    background-color: #f10180;
+    color: #fff;
+    border: 1px solid #f10180;
+    border-radius: 5px;
+    padding-left: 0;
+}
+.content_1 div{
+    float: left;
+}
+.content_1 .content_11{
+    width: 140px;
+    height: 24px;
+    border-bottom: 1px solid #e0e0e0;
+    margin-left: 38px;
+}
+.content_12{
+    margin-left: 10px;
+}
+.content_1 .content_13{
+    width: 140px;
+    height: 24px;
+    border-bottom: 1px solid #e0e0e0;
+    margin-left: 10px;
+}
+.content_2 p{
+    margin-left: 38px;
+    line-height: 60px;
+    font-size: 16px;
+}
+.content_2 a:hover{
+    color: #f10180;
+}
+
+
+.footer{
+    height: 92px;
+}
+.footer p{
+    color:#666666;
+    text-align: center;
+    line-height: 92px;
+}

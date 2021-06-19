@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>登录</title>
+    <link rel="stylesheet" href="../css/login.css">
+    <link rel="stylesheet" href="../css/common.css">
+    <!-- 引入js的库 -->
+    <script src="../js/jquery.min.js"></script>
+    <!-- 引入ajax和cookie文件 -->
+    <script src="../js/ajax.js"></script>
+    <script src="../js/cookie.js"></script>
+    <!-- 引入表单校验插件 -->
+    <script src="../js/validate/jquery.validate.js"></script>
+    <script src="../js/validate/localization/messages_zh.min.js"></script>
+    <!-- 引入弹出层插件 -->
+    <script src="../js/layer/layer.js"></script>
+</head>
+
+<body>
+    <div class="box">
+        <div id="header">
+            <div class="header main">
+                <img src="../static/img/enroll/enroll_03.jpg">
+                <ul>
+                    <li><img src="../static/img/enroll/enroll_04.jpg" /><span>100%正品</span></li>
+                    <li><img src="../static/img/enroll/enroll_05.jpg" /><span>七天放心退</span></li>
+                    <li><img src="../static/img/enroll/enroll_06.jpg" /><span>限时抢购</span></li>
+                </ul>
+            </div>
+        </div>
+        <div style="background-image: url(../static/img/enroll/enroll_01.png);" id="content">
+            <div class="content main">
+                <div class="enroll">
+                    <div class="enroll1">
+                        <h3>账户登录</h3>
+                    </div>
+                    <form class="enroll2 loginF">
+                        <input type="text" name="username" id="username" placeholder="请输入账号">
+                        <input type="password" name="password" id="password" placeholder="密码由6-16位字母，数字组成">
+                        <input type="checkbox" name="chk" id="chk"><span>记住用户名</span>
+                        <input type="button" class="submit" id="button" value="登录">
+                    </form>
+                    <div class="content_1 clearfix">
+                        <div class="content_11"></div>
+                        <div class="content_12"><a href="#"><img src="../static/img/login/login_07.jpg"></a></div>
+                        <div class="content_13"></div>
+                    </div>
+                    <div class="content_2">
+                        <p><span>还没有账号？</span><a href="./enroll.html">立即注册</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <p>Copyright 2008-2020 vip.com, All Rights Reserved ICP证：粤 B2-20080329</p>
+        </div>
+    </div>
+</body>
+<script src="../js/login.js"></script>
+</html>

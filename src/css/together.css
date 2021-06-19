@@ -1,0 +1,436 @@
+.main{
+    width: 1170px;
+    margin:0 auto;
+}
+.main-m{
+    width: 1000px;
+    margin: 0 auto;
+}
+#nav{
+    width: 100%;
+    height:28px;
+    background-color: #f5f5f5;
+}
+.nav_h{
+    position: relative;
+    padding-left: 15px;
+    padding-right: 23px;
+    width: 46px;
+    height: 28px;
+    float: left;
+}
+.nav_h .nav_title a{
+    color:#666;
+}
+.nav_title{
+    line-height: 28px;
+}
+.nav_arer{
+    position: absolute;
+    top: 12px;
+    left: 60px;
+}
+.nav .n-list{
+    float: right;
+    line-height: 28px;
+    color:#777;
+} 
+.nav .n-list li{
+    float: left;
+}
+.nav .nav-list ul .wp-user span .loginOut{
+    color:#f00581;
+}
+.nav .n-list span .wp-user{
+    position: relative;
+    border: transparent 1px solid;
+}
+.nav .n-list .wp-user a{
+    color: #666;
+}
+.nav .n-list .wp-user span{
+    text-align: right;
+    color:#666
+}
+.nav .n-list ul li{
+    height: 26px;
+    text-align: center;
+    color:#666
+}
+.nav .n-list ul li:nth-of-type(2) img{
+    height: 12px;
+    margin-right: 2px;
+}
+.nav .n-list ul li a{
+    color:#666;
+    padding-left: 10px;
+    padding-right: 17px;
+    line-height: 12px;
+    border-left: 1px solid #999;
+    display: inline-block;
+}
+.nav .n-list ul .wp-user .wp-u{
+    border-left: none;
+}
+.nav .n-list ul li a:hover{
+    color:#f00581;
+}
+.nav .n-list .wp-user .wp-u span:hover{
+    color:#f00581;
+}
+.nav .n-list ul li:nth-of-type(3) img{
+    width: 12px;
+    margin-right: 2px;
+}
+.nav .n-list ul li .iconfont{
+    font-size: 8px;
+}
+
+.head-logo .c-logo{
+    float: left;
+}
+.head-logo .c-service{
+    float: left;
+    width: 310px;
+}
+.head-logo .c-service img{
+    height: 100px;
+}
+.c-car{
+    position: relative;
+    margin-top: 33px;
+    float: right;
+    width: 96px;
+    margin-left: 36px;
+    height: 32px;
+    color:#333
+}
+.c-car-tool{
+    position: relative;
+    padding-left:25px;
+    padding-right:33px;
+    width: 36px;
+    height: 32px;
+    line-height: 32px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    background-color: #f6f7f9;
+    border-radius: 2px;
+}
+.c-car-tool a{
+    color:#666;
+}
+.c-car-tool .iconfont{
+    font-size: 20px;
+    position: absolute;
+    
+    left: 4px;
+}
+.c-car-tool .counti{
+    position: absolute;
+    top: 8px;
+    right: 4px;
+    border-radius: 8px;
+    height: 16px;
+    width: 24px;
+    line-height: 16px;
+    color: #fff;
+    text-align: center;
+    background-color: #f00581;
+}
+.form{
+    width: 453px;
+    display: inline;
+    float: right;
+    position: relative;
+    margin-top: 33px;
+}
+.form .c-form{
+    position: relative;
+    width: 449px;
+    height: 32px;
+    border: 2px solid #fa2a83;
+    border-radius: 2px;
+    background-color: #fff;
+}
+.form .c-form input{
+    width:373px;
+    padding: 2px 12px;
+    height: 28px;
+    line-height: 30px;
+    font-size: 14px;
+    color:#333;
+    border: none;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+    background-color: #fff;
+}
+.form .c-form .c-button{
+    position: absolute;
+    top: 0;
+    right: 1px;
+    width: 53px;
+    height: 30px;
+    text-align: center;
+    background-color: #fa2a83;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-top: 1px;
+}
+.form .c-form .iconfont{
+    font-size: 22px;
+    color: #fff;
+    line-height: 30px;
+    font-weight: 700;
+}
+.form .c-search ul{
+    height: 20px;
+    overflow: hidden;
+    margin: 2px;
+}
+.form .c-search li{
+    display: inline-block;
+    margin-right: 6px;
+    color: #999;
+}
+.form .c-search li span{
+    margin-right: 6px;
+    color: #ccc;
+}
+.form .c-search li a{
+    color: #f10180;
+}
+
+.main-nav{
+    position: relative;
+    height: 43px;
+    line-height: 43px;
+    background-color: #fff;
+    font-size: 14px;
+    color: #fff;
+}
+.main-nav ul li{
+    float: left;
+    padding: 0 15px;
+    font-size: 16px;
+}
+.main-nav ul li:nth-of-type(1){
+    width: 126px;
+    text-align: center;
+    background-color: #f10180;
+    position: relative;
+}
+.main-nav ul li:nth-of-type(1) a{
+    color:#fff
+}
+.main-nav ul li:nth-of-type(2){
+    padding-left: 35px;
+}
+.main-nav ul li a{
+    color: #666;
+}
+.main-nav ul li a:hover{
+    color: #f10180;
+}
+.main-nav ul li:nth-of-type(1) a:hover{
+    color:#fff;
+}
+.main-nav ul li:nth-of-type(1) ul li{
+    padding: 0;
+    width: 156px;
+    height: 43px;
+    text-align: center;
+    background-color: #f10180;
+    
+}
+.main-nav ul li:nth-of-type(1) ul{
+    display: none;
+    position: absolute;
+    top: 43px;
+    left: 0px;
+    z-index: 10;
+}
+.main-nav ul li:nth-of-type(1) ul li a{
+    display: block;
+}
+
+.footer{
+    display: block;
+    clear: both;
+    overflow: hidden;
+    line-height: 22px;
+    padding-top: 0;
+    border-top: 1px solid #ebebeb;
+    background-color: #fcfcfc;
+    color: #4d4d4d;
+}
+.footer-inner {
+    width: 960px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.footer-vip {
+    overflow: hidden;
+}
+.footer-vip li {
+    float: left;
+}
+.footer-vip i {
+    display: block;
+    margin-top: 30px;
+    margin-right: 38px;
+    margin-left: 10px;
+    width: 72px;
+    height: 75px;
+    font-size: 0;
+    text-indent: -100%;
+}
+.footer-vip-v2-ico01, .footer-vip-v2-ico02, .footer-vip-v2-ico03, .footer-vip-v2-ico04, .footer-vip-v2-ico05, .footer-vip-v2-ico06, .footer-vip-v2-ico07, .footer-vip-v2-ico08 {
+    background: url(../static/img/index/index/index842.PNG) no-repeat 0 0;
+}
+.footer-vip-v2-ico01 {
+    background-position: 0 0;
+}
+.footer-vip-v2-ico02 {
+    background-position: -123px 0;
+}
+.footer-vip-v2-ico03 {
+    background-position: -245px 0;
+}
+.footer-vip-v2-ico04 {
+    background-position: -369px 0;
+}
+.footer-vip-v2-ico05 {
+    background-position: -492px 0;
+}
+.footer-vip-v2-ico06 {
+    background-position: -615px 0;
+}
+.footer-vip-v2-ico07 {
+    background-position: -738px 0;
+}
+.footer-vip-v2-ico08 {
+    background-position: -859px 0;
+}
+.footer-list {
+    overflow: hidden;
+    zoom: 1;
+    margin: 37px 0 25px;
+    line-height: 20px;
+}
+.footer-list dl {
+    float: left;
+    width: 145px;
+    height: 146px;
+    padding-left: 16px;
+    border-right: 1px solid #e0e0e0;
+}
+.footer dd, .footer dl, .footer dt {
+    margin: 0;
+    padding: 0;
+}
+.footer-list dt {
+    margin-bottom: 4px;
+    color: #4d4d4d;
+    padding-left: 16px;
+}
+.footer-list dd{
+    padding-left: 16px;
+}
+
+.footer a {
+    color: grey;
+    text-decoration: none;
+}
+.footer-list .tc {
+    padding-left: 0;
+    width: 136px;
+    text-align: center;
+}
+.footer-list dl:nth-of-type(6){
+    border-right: none;
+}
+.footer-infor {
+    text-align: center;
+    color: #fff;
+    margin-bottom: 0;
+}
+.footer-infor-link {
+    background-color: #d7237e;
+    line-height: 30px;
+}
+.footer-infor-link a {
+    margin-left: 2px;
+    margin-right: 2px;
+    color: #fff;
+}
+.footer-infor-txt {
+    color: #999;
+    margin: 14px 0;
+    line-height: 19px;
+}
+.footer-ft {
+    padding: 4px 0 4px;
+    background-color: #fff;
+}
+.footer-pic {
+    margin: 0 auto;
+    width: 960px;
+    height: 40px;
+    text-align: center;
+    overflow: hidden;
+}
+.footer-pic-ico04 {
+    width: 99px;
+    background-position: 0 -150px;
+}
+.footer-pic-ico01, .footer-pic-ico02, .footer-pic-ico03, .footer-pic-ico04, .footer-pic-ico05, .footer-pic-ico06, .footer-pic-ico07, .footer-pic-ico08, .footer-pic-ico09, .footer-pic-ico10 {
+    display: inline-block;
+    margin-right: 9px;
+    height: 40px;
+    background-image: url(../static/img/index/index/index843.PNG);
+    background-repeat: no-repeat;
+}
+.footer-pic-ico11 {
+    display: inline-block;
+    *display: inline;
+    *zoom: 1;
+    margin-right: 9px;
+    height: 40px;
+    background-image: url(../static/img/index/index/index844.PNG);
+    background-repeat: no-repeat;
+    width: 76px;
+}
+.footer-pic-ico06 {
+    width: 70px;
+    background-position: 0 -250px;
+}
+.footer-pic-ico07 {
+    width: 75px;
+    background-position: 0 -300px;
+}
+.footer-pic-ico09 {
+    width: 76px;
+    background-position: 0 -400px;
+}
+.footer-pic-ico10 {
+    width: 76px;
+    background-position: 0 -450px;
+}
+
+/*右边导航*/
+.right{
+    height:100%;
+    width: 36px;
+    background-color: #262626;
+    position:fixed;
+    right: 0;
+    top: 0;
+}
+.r-cnt{
+    margin-top: -250px;
+    height: 400px;
+    position: absolute;
+    top: 50%;
+    right: 0;
+}

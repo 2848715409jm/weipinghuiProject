@@ -1,0 +1,142 @@
+{
+  "id": "2606525",
+  "name": "projectone-weipinghui",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "唯品会",
+  "glyphs": [
+    {
+      "icon_id": "1042035",
+      "name": "服务人次",
+      "font_class": "servicenum",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "3178272",
+      "name": "电话",
+      "font_class": "fl-dianhua",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "15971907",
+      "name": "在线客服",
+      "font_class": "zaixiankefu",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "584019",
+      "name": "感叹号",
+      "font_class": "iconfontxiaogantanhao",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "287175",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "525998",
+      "name": "坐标",
+      "font_class": "zuobiao",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "577319",
+      "name": "问号",
+      "font_class": "wenhao",
+      "unicode": "e72d",
+      "unicode_decimal": 59181
+    },
+    {
+      "icon_id": "584241",
+      "name": "右箭头",
+      "font_class": "iconfonti",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "689204",
+      "name": "编辑 铅笔 写 输入",
+      "font_class": "bianjiqianbixieshuru",
+      "unicode": "e7c8",
+      "unicode_decimal": 59336
+    },
+    {
+      "icon_id": "924728",
+      "name": "账户",
+      "font_class": "zhanghu",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "2681723",
+      "name": "优惠券",
+      "font_class": "coupon",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "6003698",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "6119216",
+      "name": "上-三角",
+      "font_class": "top-s",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "6119218",
+      "name": "下-三角",
+      "font_class": "below-s",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "6775644",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "eca1",
+      "unicode_decimal": 60577
+    },
+    {
+      "icon_id": "10012570",
+      "name": "我的足迹",
+      "font_class": "wodezuji",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "14666030",
+      "name": "购物袋",
+      "font_class": "gouwudai",
+      "unicode": "e725",
+      "unicode_decimal": 59173
+    },
+    {
+      "icon_id": "15779808",
+      "name": "五角星",
+      "font_class": "wujiaoxing",
+      "unicode": "e712",
+      "unicode_decimal": 59154
+    },
+    {
+      "icon_id": "18438036",
+      "name": "上箭头",
+      "font_class": "shangjiantou",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    }
+  ]
+}

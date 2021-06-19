@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">    
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>注册</title>
+    <!-- 自身样式表 -->
+    <link rel="stylesheet" href="../css/enroll.css">
+    <!-- 公共样式表 -->
+    <link rel="stylesheet" href="../css/common.css">
+    <script src="../js/jquery.min.js"></script>
+    <!-- 引入ajax -->
+    <script src="../js/ajax.js"></script>
+    <!-- 引入layer -->
+    <script src="../js/layer/layer.js"></script>
+</head>
+<body>
+    <div class="box">
+        <div id="header">
+            <div class="header main">
+                <img src="../static/img/enroll/enroll_03.jpg">
+                <ul>
+                    <li><img src="../static/img/enroll/enroll_04.jpg"/><span>100%正品</span></li>
+                    <li><img src="../static/img/enroll/enroll_05.jpg"/><span>七天放心退</span></li>
+                    <li><img src="../static/img/enroll/enroll_06.jpg"/><span>限时抢购</span></li>
+                </ul>
+            </div>
+        </div>
+        <div style="background-image: url(../static/img/enroll/enroll_01.png);" id="content">
+            <div class="content main">
+                <div class="enroll">
+                    <div class="enroll1">
+                        <h3>注册</h3>
+                        <p><span>已注册可</span><a href="./login.html">直接登录</a></p>
+                    </div>
+                    <form class="enroll2">
+                        <input type="text" name="username" id="username" placeholder="请输入用户名"><span>*用户名：字母开头，字母、数字组成，3~8位</span>
+                        <input type="password" name="password" id="password" placeholder="密码由6-16位字母，数字组成"><span>*请输入正确的密码</span>
+                        <input type="password" name="password1" id="password1" placeholder="请再次输入上面的密码"><span>*两次密码不一致</span>
+                        <input type="checkbox"  name="chk" id="chk"><i class="ck">我已阅读并接受条款</i>
+                        <input type="button" class="submit" id="button" value="立即注册">
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <p>Copyright 2008-2020 vip.com, All Rights Reserved ICP证：粤 B2-20080329</p>
+        </div>
+    </div>
+</body>
+<!-- 引入自身js -->
+<script src="../js/enroll.js"></script>
+</html>
